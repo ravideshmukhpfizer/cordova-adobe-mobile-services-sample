@@ -1,0 +1,1 @@
+# cordova-adobe-mobile-services-sample
