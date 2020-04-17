@@ -1,0 +1,8 @@
+{
+  "appId": "com.myapp.app",
+  "appName": "MyCapacitor",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
